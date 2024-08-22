@@ -28,6 +28,12 @@ Welcome to the Real-Time Chatting Application! This is a Django-based chat appli
   <img src="Images/jay-chat-sc.png" alt="jay" width="200" style="margin: 5px;">
 </p>
 
+### Video
+
+<video autoplay loop muted playsinline width="100%" height="auto">
+    <source src="Chat-Video/upload-video.mp4" type="video/mp4">
+</video>
+
 ## Installation
 
 To set up this application locally, follow these steps:
