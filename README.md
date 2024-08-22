@@ -12,20 +12,20 @@ Welcome to the Real-Time Chatting Application! This is a Django-based chat appli
 ### Screenshots
 
 <p align="center">
-  <img src="Images/new-group-sc.png" alt="new group" width="220" style="margin: 5px;">
-  <img src="Images/join-group-sc.png" alt="join group" width="220" style="margin: 5px;">
-  <img src="Images/groups-table-sc.png" alt="groups table" width="220" style="margin: 5px;">
-  <img src="Images/chat-table-sc-2.png" alt="chat table" width="220" style="margin: 5px;">
+  <img src="Images/new-group-sc.png" alt="new group" width="200" style="margin: 5px;">
+  <img src="Images/join-group-sc.png" alt="join group" width="200" style="margin: 5px;">
+  <img src="Images/groups-table-sc.png" alt="groups table" width="200" style="margin: 5px;">
+  <img src="Images/chat-table-sc-2.png" alt="chat table" width="200" style="margin: 5px;">
 </p>
 <p align="center">
-  <img src="Images/four-people-chat-sc.png" alt="group chat" width="220" style="margin: 5px;">
-  <img src="Images/one-people-leave-chat-sc.png" alt="one people leave" width="220" style="margin: 5px;">
-  <img src="Images/sambhaji-chat-sc.png" alt="sambhaji chat" width="220" style="margin: 5px;">
-  <img src="Images/rohit-chat-sc.png" alt="rohit chat" width="220" style="margin: 5px;">
+  <img src="Images/four-people-chat-sc.png" alt="group chat" width="200" style="margin: 5px;">
+  <img src="Images/one-people-leave-chat-sc.png" alt="one people leave" width="200" style="margin: 5px;">
+  <img src="Images/sambhaji-chat-sc.png" alt="sambhaji chat" width="200" style="margin: 5px;">
+  <img src="Images/rohit-chat-sc.png" alt="rohit chat" width="200" style="margin: 5px;">
 </p>
 <p align="center">
-  <img src="Images/vishal-chat-sc.png" alt="vishal chat" width="220" style="margin: 5px;">
-  <img src="Images/jay-chat-sc.png" alt="jay" width="220" style="margin: 5px;">
+  <img src="Images/vishal-chat-sc.png" alt="vishal chat" width="200" style="margin: 5px;">
+  <img src="Images/jay-chat-sc.png" alt="jay" width="200" style="margin: 5px;">
 </p>
 
 ## Installation
