@@ -30,7 +30,9 @@ Welcome to the Real-Time Chatting Application! This is a Django-based chat appli
 
 ### Video
 
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+  <video src="https://github.com/user-attachments/assets/4a725f4d-d7f3-474e-b3a4-0a96b2e96a71" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" autoplay loop playsinlin muted></video>
+</div>
 
 ## Installation
 
