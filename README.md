@@ -1,4 +1,4 @@
-#ChatMe - Real Time Chatting Application
+# ChatMe - Real Time Chatting Application
 
 Welcome to the Real-Time Chatting Application! This is a Django-based chat application that allows multiple users to communicate in real time through various chat rooms. Whether you're working on a collaborative project or simply catching up with friends, this application offers an interactive and dynamic messaging experience.
 
