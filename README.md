@@ -30,9 +30,7 @@ Welcome to the Real-Time Chatting Application! This is a Django-based chat appli
 
 ### Video
 
-<video autoplay loop muted playsinline width="100%" height="auto">
-    <source src="Chat-Video/upload-video.mp4" type="video/mp4">
-</video>
+[Watch Now](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Installation
 
